@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PKIprojekat</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login">Prijava</string>
+    <string name="username">Korisničko ime</string>
+    <string name="password">Lozinka</string>
+    <string name="login_btn">Prijavi se</string>
+    <string name="register_new">Nemate nalog? Registracija</string>
+    <string name="registration">Registracija</string>
+    <string name="password2">Potvrdi lozinku</string>
+    <string name="name">Ime</string>
+    <string name="surname">Prezime</string>
+    <string name="address">Adresa</string>
+    <string name="phone_hint">Telefon (06XXXXXXXX)</string>
+    <string name="register">Registruj se</string>
+    <string name="already_logged">Već imate nalog? Prijava</string>
+</resources>

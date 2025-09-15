@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Primary Colors-->
+    <color name="primary_purple">#7B61FF</color>
+    <color name="primary_purple_dark">#5A3FDB</color>
+    <!-- Background Gradient Colors -->
+    <color name="background_gradient_start">#9B7BFF</color>
+    <color name="background_gradient_end">#FFB3D9</color>
+    <!-- UI Colors -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#999999</color>
+    <!-- Status Colors -->
+    <color name="error_red">#FF0000</color>
+    <color name="success_green">#00C853</color>
+    <color name="border_blue">#2196F3</color>
+    <!--Additional colors-->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
