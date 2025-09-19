@@ -16,6 +16,12 @@
     <color name="success_green">#00C853</color>
     <color name="border_blue">#2196F3</color>
     <!--Additional colors-->
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="darker_gray">#aaa</color>
+    <color name="lighter_gray">#ddd</color>
+    <color name="gray_medium">#E0E0E0</color>
+    <color name="overlay_dark">#80000000</color>
 </resources>
