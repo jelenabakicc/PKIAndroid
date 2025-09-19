@@ -26,6 +26,24 @@
         <activity
             android:name=".activities.HomeActivity"
             android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activities.ContactActivity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activities.NotificationsActivity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activities.CartActivity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activities.EventDetailsActivity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activities.EventActivity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activities.PromotionsActivity"
+            android:windowSoftInputMode="adjustResize" />
     </application>
 
 </manifest>
